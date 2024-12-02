@@ -121,12 +121,40 @@ public class HotelDatabase {
     }
 
     /**
+     * Helper method to execute the query for testing database manipulation.
+     *
+     * @param sql
+     * @return
+     */
+    public ResultSet executeQuery(String sql) {
+        try {
+            Statement stmt = conn.createStatement();
+            return stmt.executeQuery(sql);
+        } catch (SQLException e) {
+            e.printStackTrace();
+            return null;
+        }
+    }
+
+    /**
+     * Executes an update query (INSERT, UPDATE, DELETE, or DROP).
+     *
+     * @param sql the SQL query string to execute.
+     * @throws SQLException if a database access error occurs.
+     */
+    public int executeUpdate(String sql) throws SQLException {
+        try (Statement stmt = conn.createStatement()) {
+            return stmt.executeUpdate(sql);
+        }
+    }
+
+    /**
      * Closes the connection to the database.
      * If the connection is successfully closed, a message is printed to the console.
      */
     public void closeConnection() {
         try {
-            if (conn != null) {
+            if (conn != null && !conn.isClosed()) {
                 conn.close();
                 System.out.println("Connection closed.");
             }

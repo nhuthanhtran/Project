@@ -43,12 +43,7 @@ public class HotelPriceCollector {
                 "San Francisco",
                 "Miami"
         };
-//        Map<String, Integer> data = screener.gatherHotelData("Marriott Marquis", "Atlanta");
-//        database.createTable("MarriottMarquis_Atlanta");
-//        for (Map.Entry<String, Integer> entry : data.entrySet()) {
-//            database.addRecordToTable("MarriottMarquis_Atlanta", entry.getKey(), entry.getValue());
-//        }
-//        database.getLowestPrices("MarriottMarquis_Atlanta");
+
         for (String hotel : hotels) {
             for (String city : cities) {
                 Map<String, Integer> data = screener.gatherHotelData(hotel, city);

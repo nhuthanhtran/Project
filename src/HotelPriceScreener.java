@@ -1,5 +1,6 @@
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -82,9 +83,10 @@ public class HotelPriceScreener {
     private List<WebElement> fetchDailyPrices() throws InterruptedException  {
         WebElement priceButton = driver.findElement(By.xpath("//span[text()='Prices']"));
         priceButton.click();
-        Thread.sleep(1000);
+        Thread.sleep(1500);
         WebElement checkinDate = driver.findElement(By.xpath("//*[@id=\"prices\"]/c-wiz[1]/c-wiz[1]/div/section/div[1]/div[1]/div/div[2]/div[1]/div/input"));
         checkinDate.click();
+        Thread.sleep(5000);
         WebElement departureDate  = driver.findElement(By.xpath("//div[contains(@aria-label, 'departure date')]"));
         if (departureDate.isDisplayed()) {
             departureDate.click();
@@ -143,7 +145,7 @@ public class HotelPriceScreener {
             ));
             if (nextButton.isDisplayed()) {
                 nextButton.click();
-                Thread.sleep(500);
+                Thread.sleep(1000);
             }
         } catch (NoSuchElementException e) {
             System.out.println("Next button not found or no more pages available.");
