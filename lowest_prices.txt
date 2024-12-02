@@ -1,0 +1,300 @@
+10 lowest price dates of The_Ritz_Carlton_New_York
+Date: Sunday, January 19, 2025, Price: $795
+Date: Monday, January 20, 2025, Price: $795
+Date: Wednesday, January 22, 2025, Price: $795
+Date: Thursday, January 23, 2025, Price: $795
+Date: Tuesday, January 21, 2025, Price: $798
+Date: Sunday, February 2, 2025, Price: $820
+Date: Monday, February 3, 2025, Price: $820
+Date: Tuesday, February 4, 2025, Price: $820
+Date: Sunday, February 16, 2025, Price: $820
+Date: Monday, February 17, 2025, Price: $820
+
+10 lowest price dates of The_Ritz_Carlton_Los_Angeles
+Date: Monday, January 6, 2025, Price: $563
+Date: Thursday, December 5, 2024, Price: $600
+Date: Monday, December 2, 2024, Price: $602
+Date: Thursday, December 19, 2024, Price: $602
+Date: Saturday, December 21, 2024, Price: $602
+Date: Wednesday, December 25, 2024, Price: $602
+Date: Friday, December 20, 2024, Price: $619
+Date: Thursday, January 2, 2025, Price: $619
+Date: Friday, January 3, 2025, Price: $619
+Date: Saturday, January 4, 2025, Price: $619
+
+10 lowest price dates of The_Ritz_Carlton_Chicago
+Date: Monday, January 6, 2025, Price: $303
+Date: Friday, January 3, 2025, Price: $306
+Date: Thursday, January 2, 2025, Price: $314
+Date: Friday, January 10, 2025, Price: $326
+Date: Thursday, January 16, 2025, Price: $327
+Date: Saturday, January 4, 2025, Price: $329
+Date: Sunday, January 5, 2025, Price: $329
+Date: Monday, January 13, 2025, Price: $330
+Date: Tuesday, January 21, 2025, Price: $330
+Date: Wednesday, January 15, 2025, Price: $331
+
+10 lowest price dates of The_Ritz_Carlton_San_Francisco
+Date: Wednesday, January 8, 2025, Price: $345
+Date: Monday, January 6, 2025, Price: $355
+Date: Saturday, February 1, 2025, Price: $362
+Date: Sunday, February 2, 2025, Price: $362
+Date: Sunday, April 20, 2025, Price: $364
+Date: Thursday, January 23, 2025, Price: $373
+Date: Saturday, January 25, 2025, Price: $374
+Date: Friday, February 7, 2025, Price: $374
+Date: Saturday, February 8, 2025, Price: $374
+Date: Friday, May 30, 2025, Price: $376
+
+10 lowest price dates of The_Ritz_Carlton_Miami
+Date: Wednesday, December 11, 2024, Price: $295
+Date: Sunday, December 15, 2024, Price: $358
+Date: Monday, December 16, 2024, Price: $358
+Date: Tuesday, December 10, 2024, Price: $364
+Date: Monday, December 9, 2024, Price: $369
+Date: Wednesday, December 18, 2024, Price: $375
+Date: Thursday, December 19, 2024, Price: $375
+Date: Tuesday, December 17, 2024, Price: $378
+Date: Thursday, December 12, 2024, Price: $387
+Date: Monday, May 26, 2025, Price: $428
+
+10 lowest price dates of Four_Seasons_Hotel_New_York
+Date: Tuesday, January 28, 2025, Price: $1244
+Date: Thursday, January 2, 2025, Price: $1269
+Date: Friday, January 31, 2025, Price: $1281
+Date: Saturday, January 25, 2025, Price: $1290
+Date: Thursday, January 16, 2025, Price: $1313
+Date: Wednesday, January 1, 2025, Price: $1366
+Date: Friday, January 3, 2025, Price: $1366
+Date: Saturday, January 4, 2025, Price: $1366
+Date: Monday, January 6, 2025, Price: $1366
+Date: Tuesday, January 7, 2025, Price: $1366
+
+10 lowest price dates of Four_Seasons_Hotel_Los_Angeles
+Date: Thursday, December 12, 2024, Price: $563
+Date: Thursday, March 6, 2025, Price: $564
+Date: Friday, December 13, 2024, Price: $565
+Date: Wednesday, December 25, 2024, Price: $566
+Date: Thursday, December 26, 2024, Price: $572
+Date: Wednesday, January 8, 2025, Price: $573
+Date: Friday, January 10, 2025, Price: $573
+Date: Thursday, January 16, 2025, Price: $573
+Date: Monday, January 20, 2025, Price: $573
+Date: Tuesday, January 21, 2025, Price: $573
+
+10 lowest price dates of Four_Seasons_Hotel_Chicago
+Date: Friday, February 28, 2025, Price: $323
+Date: Sunday, March 23, 2025, Price: $323
+Date: Friday, January 31, 2025, Price: $325
+Date: Saturday, February 1, 2025, Price: $325
+Date: Saturday, February 8, 2025, Price: $327
+Date: Thursday, February 6, 2025, Price: $328
+Date: Friday, February 7, 2025, Price: $328
+Date: Sunday, February 9, 2025, Price: $328
+Date: Wednesday, February 19, 2025, Price: $328
+Date: Saturday, March 1, 2025, Price: $328
+
+10 lowest price dates of Four_Seasons_Hotel_San_Francisco
+Date: Wednesday, December 25, 2024, Price: $370
+Date: Friday, December 13, 2024, Price: $374
+Date: Saturday, December 14, 2024, Price: $374
+Date: Friday, January 10, 2025, Price: $374
+Date: Saturday, January 18, 2025, Price: $374
+Date: Thursday, January 23, 2025, Price: $374
+Date: Sunday, January 26, 2025, Price: $374
+Date: Saturday, February 8, 2025, Price: $374
+Date: Saturday, February 22, 2025, Price: $374
+Date: Saturday, March 1, 2025, Price: $374
+
+10 lowest price dates of Four_Seasons_Hotel_Miami
+Date: Friday, January 10, 2025, Price: $399
+Date: Thursday, January 16, 2025, Price: $399
+Date: Tuesday, January 21, 2025, Price: $399
+Date: Wednesday, January 22, 2025, Price: $399
+Date: Thursday, January 23, 2025, Price: $399
+Date: Tuesday, September 2, 2025, Price: $461
+Date: Sunday, July 13, 2025, Price: $472
+Date: Monday, August 11, 2025, Price: $472
+Date: Sunday, July 27, 2025, Price: $473
+Date: Sunday, June 29, 2025, Price: $476
+
+10 lowest price dates of Hilton_Garden_Inn_New_York
+Date: Sunday, February 9, 2025, Price: $124
+Date: Sunday, January 5, 2025, Price: $128
+Date: Thursday, January 30, 2025, Price: $128
+Date: Thursday, January 16, 2025, Price: $129
+Date: Sunday, January 26, 2025, Price: $129
+Date: Monday, January 27, 2025, Price: $130
+Date: Thursday, February 6, 2025, Price: $131
+Date: Sunday, February 2, 2025, Price: $132
+Date: Sunday, February 23, 2025, Price: $136
+Date: Sunday, January 19, 2025, Price: $137
+
+10 lowest price dates of Hilton_Garden_Inn_Los_Angeles
+Date: Thursday, December 19, 2024, Price: $120
+Date: Monday, December 9, 2024, Price: $127
+Date: Saturday, December 14, 2024, Price: $131
+Date: Monday, December 23, 2024, Price: $142
+Date: Saturday, December 21, 2024, Price: $144
+Date: Sunday, December 15, 2024, Price: $149
+Date: Friday, January 3, 2025, Price: $149
+Date: Saturday, January 11, 2025, Price: $149
+Date: Saturday, December 28, 2024, Price: $154
+Date: Saturday, January 4, 2025, Price: $154
+
+10 lowest price dates of Hilton_Garden_Inn_Chicago
+Date: Thursday, February 6, 2025, Price: $63
+Date: Thursday, January 9, 2025, Price: $64
+Date: Sunday, February 9, 2025, Price: $64
+Date: Tuesday, February 11, 2025, Price: $64
+Date: Thursday, February 13, 2025, Price: $64
+Date: Sunday, January 5, 2025, Price: $65
+Date: Monday, January 6, 2025, Price: $66
+Date: Wednesday, February 5, 2025, Price: $66
+Date: Monday, February 10, 2025, Price: $66
+Date: Tuesday, January 7, 2025, Price: $67
+
+10 lowest price dates of Hilton_Garden_Inn_San_Francisco
+Date: Sunday, December 15, 2024, Price: $79
+Date: Wednesday, January 1, 2025, Price: $79
+Date: Friday, January 3, 2025, Price: $82
+Date: Saturday, December 7, 2024, Price: $84
+Date: Sunday, December 8, 2024, Price: $84
+Date: Saturday, January 4, 2025, Price: $84
+Date: Friday, December 6, 2024, Price: $85
+Date: Saturday, December 14, 2024, Price: $86
+Date: Monday, December 30, 2024, Price: $86
+Date: Thursday, January 2, 2025, Price: $87
+
+10 lowest price dates of Hilton_Garden_Inn_Miami
+Date: Monday, December 16, 2024, Price: $101
+Date: Tuesday, December 17, 2024, Price: $112
+Date: Monday, December 23, 2024, Price: $121
+Date: Sunday, June 1, 2025, Price: $122
+Date: Sunday, July 27, 2025, Price: $122
+Date: Sunday, August 10, 2025, Price: $122
+Date: Tuesday, December 24, 2024, Price: $123
+Date: Sunday, July 20, 2025, Price: $124
+Date: Sunday, August 3, 2025, Price: $125
+Date: Sunday, September 28, 2025, Price: $125
+
+10 lowest price dates of Marriott_Marquis_New_York
+Date: Sunday, January 5, 2025, Price: $169
+Date: Sunday, January 26, 2025, Price: $172
+Date: Sunday, January 19, 2025, Price: $174
+Date: Sunday, February 2, 2025, Price: $175
+Date: Monday, January 6, 2025, Price: $180
+Date: Monday, January 27, 2025, Price: $181
+Date: Monday, January 20, 2025, Price: $188
+Date: Tuesday, January 21, 2025, Price: $191
+Date: Tuesday, February 4, 2025, Price: $191
+Date: Monday, February 17, 2025, Price: $191
+
+10 lowest price dates of Marriott_Marquis_Los_Angeles
+Date: Wednesday, January 8, 2025, Price: $214
+Date: Tuesday, January 21, 2025, Price: $214
+Date: Wednesday, January 22, 2025, Price: $214
+Date: Thursday, January 9, 2025, Price: $216
+Date: Thursday, January 2, 2025, Price: $229
+Date: Monday, December 23, 2024, Price: $231
+Date: Saturday, January 4, 2025, Price: $231
+Date: Monday, January 6, 2025, Price: $231
+Date: Wednesday, December 25, 2024, Price: $232
+Date: Tuesday, December 24, 2024, Price: $233
+
+10 lowest price dates of Marriott_Marquis_Chicago
+Date: Thursday, January 2, 2025, Price: $124
+Date: Wednesday, January 1, 2025, Price: $136
+Date: Wednesday, January 15, 2025, Price: $137
+Date: Saturday, January 25, 2025, Price: $137
+Date: Sunday, January 26, 2025, Price: $137
+Date: Thursday, January 30, 2025, Price: $138
+Date: Tuesday, January 14, 2025, Price: $144
+Date: Wednesday, January 22, 2025, Price: $144
+Date: Tuesday, January 28, 2025, Price: $144
+Date: Friday, January 31, 2025, Price: $144
+
+10 lowest price dates of Marriott_Marquis_San_Francisco
+Date: Friday, December 20, 2024, Price: $184
+Date: Saturday, December 21, 2024, Price: $184
+Date: Sunday, December 22, 2024, Price: $184
+Date: Thursday, December 19, 2024, Price: $185
+Date: Sunday, December 15, 2024, Price: $186
+Date: Monday, December 23, 2024, Price: $186
+Date: Tuesday, December 24, 2024, Price: $186
+Date: Wednesday, December 25, 2024, Price: $186
+Date: Thursday, December 26, 2024, Price: $186
+Date: Friday, December 27, 2024, Price: $186
+
+10 lowest price dates of Marriott_Marquis_Miami
+Date: Sunday, June 22, 2025, Price: $196
+Date: Monday, December 23, 2024, Price: $201
+Date: Tuesday, June 17, 2025, Price: $211
+Date: Wednesday, June 18, 2025, Price: $212
+Date: Tuesday, December 24, 2024, Price: $217
+Date: Wednesday, December 25, 2024, Price: $219
+Date: Wednesday, December 18, 2024, Price: $222
+Date: Tuesday, December 17, 2024, Price: $223
+Date: Thursday, December 26, 2024, Price: $228
+Date: Sunday, December 15, 2024, Price: $230
+
+10 lowest price dates of Hyatt_Regency_New_York
+Date: Friday, January 17, 2025, Price: $140
+Date: Sunday, January 5, 2025, Price: $143
+Date: Wednesday, January 8, 2025, Price: $144
+Date: Wednesday, January 22, 2025, Price: $144
+Date: Wednesday, January 29, 2025, Price: $146
+Date: Friday, January 10, 2025, Price: $147
+Date: Tuesday, February 4, 2025, Price: $147
+Date: Tuesday, February 11, 2025, Price: $147
+Date: Tuesday, February 18, 2025, Price: $147
+Date: Tuesday, February 25, 2025, Price: $147
+
+10 lowest price dates of Hyatt_Regency_Los_Angeles
+Date: Sunday, December 22, 2024, Price: $135
+Date: Friday, December 20, 2024, Price: $136
+Date: Tuesday, December 24, 2024, Price: $137
+Date: Thursday, December 26, 2024, Price: $139
+Date: Tuesday, December 10, 2024, Price: $143
+Date: Friday, December 13, 2024, Price: $143
+Date: Saturday, December 7, 2024, Price: $144
+Date: Monday, December 9, 2024, Price: $144
+Date: Monday, December 2, 2024, Price: $146
+Date: Tuesday, December 3, 2024, Price: $146
+
+10 lowest price dates of Hyatt_Regency_Chicago
+Date: Sunday, December 29, 2024, Price: $83
+Date: Sunday, December 15, 2024, Price: $84
+Date: Tuesday, December 17, 2024, Price: $86
+Date: Tuesday, December 24, 2024, Price: $86
+Date: Monday, December 16, 2024, Price: $89
+Date: Sunday, December 22, 2024, Price: $89
+Date: Wednesday, December 18, 2024, Price: $90
+Date: Tuesday, December 10, 2024, Price: $91
+Date: Thursday, January 2, 2025, Price: $91
+Date: Monday, January 6, 2025, Price: $91
+
+10 lowest price dates of Hyatt_Regency_San_Francisco
+Date: Saturday, February 1, 2025, Price: $122
+Date: Monday, December 23, 2024, Price: $127
+Date: Tuesday, December 24, 2024, Price: $127
+Date: Sunday, December 29, 2024, Price: $131
+Date: Friday, February 21, 2025, Price: $132
+Date: Saturday, January 18, 2025, Price: $138
+Date: Sunday, December 15, 2024, Price: $157
+Date: Monday, December 16, 2024, Price: $157
+Date: Sunday, December 22, 2024, Price: $157
+Date: Thursday, December 26, 2024, Price: $157
+
+10 lowest price dates of Hyatt_Regency_Miami
+Date: Tuesday, December 17, 2024, Price: $128
+Date: Wednesday, December 18, 2024, Price: $128
+Date: Tuesday, December 24, 2024, Price: $135
+Date: Wednesday, December 25, 2024, Price: $135
+Date: Sunday, December 15, 2024, Price: $138
+Date: Monday, December 16, 2024, Price: $138
+Date: Monday, December 23, 2024, Price: $148
+Date: Sunday, December 22, 2024, Price: $155
+Date: Monday, December 9, 2024, Price: $157
+Date: Sunday, August 31, 2025, Price: $158
+
