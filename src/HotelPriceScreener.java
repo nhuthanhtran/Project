@@ -87,13 +87,36 @@ public class HotelPriceScreener {
         WebElement checkinDate = driver.findElement(By.xpath("//*[@id=\"prices\"]/c-wiz[1]/c-wiz[1]/div/section/div[1]/div[1]/div/div[2]/div[1]/div/input"));
         checkinDate.click();
         Thread.sleep(5000);
+        //check if the default check in date is not in the current month
+        checkIfInCurrentTime();
+
         WebElement departureDate  = driver.findElement(By.xpath("//div[contains(@aria-label, 'departure date')]"));
         if (departureDate.isDisplayed()) {
             departureDate.click();
-            Thread.sleep(1000);
+            Thread.sleep(2000);
         }
         List<WebElement> dailyPrice = driver.findElements(By.xpath("//div[contains(@class, 'p1BRgf')]"));
         return dailyPrice;
+    }
+
+    /**
+     * Helper method to click the "Previous" button to go back too the current month calendar view
+     * in case the default date is not set within the current month
+     *
+     * @throws InterruptedException if interrupted during interaction.
+     */
+    private void checkIfInCurrentTime() throws InterruptedException {
+        try {
+           WebElement backButton = driver.findElement(By.cssSelector(
+                    "div.qxcyof.RNniQb > div > div > div.d53ede.QbVVHd.FfP4Bc.em0Hre > div > div > button > div.VfPpkd-RLmnJb"
+            ));
+            while (backButton.isDisplayed()) {
+                backButton.click();
+                Thread.sleep(2000);
+            }
+        } catch (NoSuchElementException e) {
+            System.out.println("No back button available.");
+        }
     }
 
     /**
@@ -145,7 +168,7 @@ public class HotelPriceScreener {
             ));
             if (nextButton.isDisplayed()) {
                 nextButton.click();
-                Thread.sleep(1000);
+                Thread.sleep(2000);
             }
         } catch (NoSuchElementException e) {
             System.out.println("Next button not found or no more pages available.");

@@ -14,5 +14,6 @@
     <orderEntry type="library" name="commons.io" level="project" />
     <orderEntry type="library" name="apache.commons.lang3" level="project" />
     <orderEntry type="library" name="seleniumhq.selenium.java" level="project" />
+    <orderEntry type="library" name="mockito.core" level="project" />
   </component>
 </module>
